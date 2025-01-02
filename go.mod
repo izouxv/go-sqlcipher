@@ -1,4 +1,4 @@
-module github.com/mutecomm/go-sqlcipher/v4
+module github.com/mattn/go-sqlite3
 
 go 1.12
 
